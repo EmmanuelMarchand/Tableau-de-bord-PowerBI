@@ -9,8 +9,8 @@ Réalisations :
 Softs Skills travaillées :
   +  Identifier les enjeux client.
   +  Collecte des users stories.
-  +  Rendre la visualisation de donnée disponible et accessibles
-  +  Datavisualisation claire pour engager l'utilisateur
+  +  Rendre la visualisation de donnée disponible et accessible.
+  +  Datavisualisation claire pour engager l'utilisateur.
 
 Compétences travaillées :
   +  Automatisation de la préparation et du nettoyage des données en PowerQuery
